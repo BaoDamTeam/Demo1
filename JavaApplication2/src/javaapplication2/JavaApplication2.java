@@ -18,6 +18,7 @@ public class JavaApplication2 {
         System.out.println("Demo1 nè mấy đứa");
          System.out.println("holy shit");
          System.out.println("dcm");
+         System.out.println("cho dien");
         // TODO code application logic here
     }
     
