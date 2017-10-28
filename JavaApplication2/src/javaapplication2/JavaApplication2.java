@@ -17,6 +17,7 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         System.out.println("Demo1 nè mấy đứa");
          System.out.println("holy shit");
+         System.out.println("dcm");
         // TODO code application logic here
     }
     
