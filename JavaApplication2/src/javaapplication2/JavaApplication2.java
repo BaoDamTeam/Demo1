@@ -20,6 +20,7 @@ public class JavaApplication2 {
          System.out.println("dcm");
          System.out.println("cho dien");
          System.out.println("nam dien");
+         System.out.println("30-10-2017");
         // TODO code application logic here
     }
     
