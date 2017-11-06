@@ -28,6 +28,7 @@ public class JavaApplication2 {
          System.out.println("Thang thu nhat ");
          System.out.println("thang thu tu");
          System.out.println("thang thu 3");
+         System.out.println("ngay hom nay dep qua");
         // TODO code application logic here
     }
     
