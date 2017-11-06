@@ -26,6 +26,7 @@ public class JavaApplication2 {
          System.out.println("merge");
          System.out.println("thang thu hai");
          System.out.println("Thang thu nhat ");
+         System.out.println("thang thu 3");
         // TODO code application logic here
     }
     
