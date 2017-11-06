@@ -22,6 +22,7 @@ public class JavaApplication2 {
          System.out.println("nam dien");
          System.out.println("30-10-2017");
          System.out.println("30-10-2017 máy khác");
+         System.out.println("6-11");
         // TODO code application logic here
     }
     
