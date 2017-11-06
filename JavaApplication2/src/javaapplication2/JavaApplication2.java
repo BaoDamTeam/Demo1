@@ -24,6 +24,7 @@ public class JavaApplication2 {
          System.out.println("30-10-2017 máy khác");
          System.out.println("6-11");
          System.out.println("merge");
+         System.out.println("thang thu hai");
          System.out.println("Thang thu nhat ");
          System.out.println("thang thu tu");
         // TODO code application logic here
