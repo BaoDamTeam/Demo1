@@ -31,6 +31,7 @@ public class JavaApplication2 {
          System.out.println("ngay hom nay dep qua");
          System.out.println("thay luon luon dep trai");
          System.out.println("thay mai mai tre 1");
+         System.out.println("thay mai mai dep trai");
          
         // TODO code application logic here
     }
